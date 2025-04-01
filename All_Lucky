@@ -1,10 +1,9 @@
 #!name=All Lucky
-#!desc=By: Quoc Chien
+#!desc=By: Po
 # Shadowrocket Configuration - All Lucky
 # Cập nhật: 2024-12-15
-# Bản Quyền Thuộc Về Quốc Chiến 
-# Tham Gia Nhóm Telegram: https://t.me/shadowrocketunlockproapps
-
+# Bản Quyền Thuộc Về Po
+# Tham Gia Nhóm Telegram: https://t.me/quangtuan
 [General]
 bypass-system = true
 skip-proxy = *.local, *.crashlytics.com
